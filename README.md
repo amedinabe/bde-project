@@ -1,4 +1,7 @@
-Welcome to your new dbt project!
+#### dbt Project
+
+Angy Melissa Medina Berrio
+Student id: 14214213
 
 ### Using the starter project
 
