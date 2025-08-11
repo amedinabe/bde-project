@@ -1,8 +1,5 @@
 #### dbt Project
 
-Angy Melissa Medina Berrio
-Student id: 14214213
-
 ### Using the starter project
 
 Try running the following commands:
